@@ -1,6 +1,9 @@
 
 # Created by https://www.gitignore.io/api/java,eclipse
 
+# include .gitkeep file
+!.gitkeep
+
 ### Eclipse ###
 
 .metadata
